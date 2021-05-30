@@ -1,0 +1,14 @@
+{
+  "name": "njs-s3-his",
+  "version": "1.0.0",
+  "description": "history api ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shriya Sandilya",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
